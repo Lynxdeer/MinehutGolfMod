@@ -2,7 +2,8 @@
 A garbage forge mod for minehut golf, I guess. If you feel like commenting that my code is garbage, feel free to do so, maybe I'll change it to be less garbage.
 
 ## Features
-- Tells you your pitch and yaw <br>
+- Tells you your pitch and yaw *(togglable with the 0 key)*<br>
+*no, you can't change it, you have to use the 0 key because I cba to figure out how custom hotkeys work*
 
 *please suggest ideas for stuff I can do with this mod I don't have any*
 
