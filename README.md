@@ -15,4 +15,5 @@ Type -sp (pitch) or -sy (yaw) to change your pitch and yaw manually.
 *(might make a fabric port if I feel up to it sometime, but for now just forge)* <br>
 | **Forge** | **Fabric** |
 | --------- | ---------- |
-| **[1.18.2 - 1.19](https://drive.google.com/file/d/15VWbDi8fSViDI62e7KiPEDGg8fEJvTfn/view?usp=sharing)** | *non-existent atm* |
+| **[1.18.2 - 1.19, v1.0](https://drive.google.com/file/d/15VWbDi8fSViDI62e7KiPEDGg8fEJvTfn/view?usp=sharing)** | *non-existent* |
+| **[1.18.2 - 1.19, v1.1](https://drive.google.com/file/d/1fEBjKUFXBxZDSuapPrvecinHGK87J4Ev/view?usp=sharing)** | *non-existent* |
